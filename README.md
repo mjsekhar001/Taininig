@@ -1,2 +1,2 @@
-# Taininig
+# Traininig
 lti
